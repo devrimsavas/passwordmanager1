@@ -1,0 +1,2 @@
+it is very cool and sophisticated program which creates , valudates and save your passwords. Attention: since program uses fernet key, you need to create your own key. you can change admin password and user name since for test purpose i set as test, test. 
+issues: program uses unnessarcly long routine creating password. it is quite possible to use shorter one. Program uses sqlite3 database. so you need to have it in your computer. Updates will come.
